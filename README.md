@@ -12,7 +12,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **at Nexa Digital**
+ 🔭 I’m currently an **IT Student**
  
  🌱 I’m currently learning **IT**
 
